@@ -1,3 +1,5 @@
+console.log();
+
 /*JS Practice 6*/
 
 /*Let's practice "higher order" array methods (Aarrow functions optional)*/
