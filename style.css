@@ -1,0 +1,7 @@
+body {
+    background-color: lightyellow;
+    padding: 0 5%;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+}
