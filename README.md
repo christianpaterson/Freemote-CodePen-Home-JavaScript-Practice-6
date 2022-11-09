@@ -14,5 +14,4 @@ The challenge was to complete JavaScript Practice 6 as part of Freemote, The Rem
 <li>CSS</li>
 <li>GIT</li>
 <li>GITHUB</li>
-<li>Chrome developer tools</li>
 </ul>
