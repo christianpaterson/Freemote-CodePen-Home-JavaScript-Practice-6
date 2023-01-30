@@ -1,7 +1,7 @@
 console.log(`
 /*JS Practice 6*/
 
-/*Let's practice "higher order" array methods (Aarrow functions optional)*/
+/*Let's practice "higher order" array methods*/
 
 var nums = [-1, 0, 1, 2, 3, 4];
 var number = 0;
